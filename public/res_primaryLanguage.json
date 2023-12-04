@@ -35,18 +35,18 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "With Purpose",
+        "startDate": "20182022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AgateHunter/Final",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final Project",
+        "startDate": "December 2023",
+        "description": "Final Project for Code 301. This application was a group project that showcases our learning of React and Intermediate skills in JavaScript",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Natalie Stone",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer - Can She Build It? Yes She Can!" ],
       "social": [
         {
           "name": "github",
@@ -32,11 +32,6 @@
           "name": "Angular",
           "class": "devicon-angularjs-plain",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
