@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Listening Room",
+        "startDate": "2023",
+        "description": "My final group project with Code 201.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/listeningroom/Listening1.png",
+          "images/portfolio/listeningroom/Listening2.png",
+          "images/portfolio/listeningroom/Listening3.png"
         ],
         "url": "",
         "technologies": [
