@@ -22,23 +22,19 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html-plain",
+            "name": "HTML"
           }
         ]
       },
       {
         "title": "With Purpose",
-        "startDate": "20182022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "November 2022",
+        "description": "Personal project demonstrating C# and JavaScript. This application is a mental health tracker where a user can identify which activities are used for harm, which are used with positive intent, and how much time is spent engaging.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -52,6 +48,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
           }
         ]
       },
@@ -66,53 +66,59 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html-plain",
+            "name": "HTML"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Oracle",
+        "title": "Technical Program Manager",
+        "years": "03.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Oracle Autonomous Database"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Confluence",
+          "Smartsheets",
+          "Jira",
+          "Microsoft 365",
+          "APEX"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Bellingham Technical College",
+        "title": "Project and Organizational Change Manager",
+        "years": "06.2019 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Smartsheets"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft 365",
+          "Smartsheets"
+          
+        ]
+      },
+      {
+        "company": "Army National Guard",
+        "title": "Bandsman",
+        "years": "10.2002 - 05.2023",
+        "mainTech": [
+          "Fender Jazz Bass ;)"
+        ],
+        "technologies": [
+          "Microsoft 365"
+        
         ]
       }
     ]
